@@ -1,4 +1,4 @@
- ## 👨‍💻Meu nome é Matheus Italo (Ou "Geralt de Azir" nos games kk) 
+ ## Olá, Meu nome é Matheus Italo (Ou "Geralt de Azir" nos games kk) 
  ## Sou graduando em Sistemas de Informação pelo IFNMG - Campus Pirapora e tenho cursos de JS, React, Node, TypeScript e etc, atualmente estou fazendo um de React Native para Mobile, estou bem empenhado em adquirir novas skills e aprimorar cada vez mais as que já tenho, então vocês vão ver bastante coisa sendo compartilhada por aqui, fique a vontade! 🤖
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -13,17 +13,18 @@
 <div>
 <a href="https://www.instagram.com/math.italo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/destruindosonhos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mida@aluno.ifnmg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "haiganbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-italo-7ab09b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+
 <div>
 <a href="https://github.com/Haigan">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haigan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haigan&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Haigan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haigan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ![Snake animation](https://github.com/Haigan/Haigan/blob/output/github-contribution-grid-snake.svg)
 
 
  
