@@ -1,5 +1,5 @@
  ## Olá, Meu nome é Matheus
- ## Sou graduando em Sistemas de Informação pelo IFNMG - Campus Pirapora e tenho cursos de JS, React, Node, TypeScript e etc, atualmente estou estudando React Native para Mobile, estou bem empenhado em adquirir novas skills e aprimorar cada vez mais as que já tenho, então vocês vão ver bastante coisa sendo compartilhada por aqui, fique a vontade! 🤖
+ ## Sou graduando em Sistemas de Informação pelo IFNMG - Campus Pirapora e tenho cursos de JS, React, Vue, Node, TypeScript e etc, atualmente estou estudando React Native para Mobile, estou bem empenhado em adquirir novas skills e aprimorar cada vez mais as que já tenho, então vocês vão ver bastante coisa sendo compartilhada por aqui, fique a vontade! 🤖
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
       
