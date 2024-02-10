@@ -1,21 +1,36 @@
- ## Olá, Meu nome é Matheus
- ## Sou graduando em Sistemas de Informação pelo IFNMG - Instituto Federal do Norte de Minas Gerais, tenho cursos de JS, React, Vue, Node, TypeScript, React Native e outros. Atualmente estou trabalhando como Programador Freelancer, estou bem empenhado em aprimorar cada vez mais minhas skills e adquirir novas sempre que surgirem, constantemente atualizado sobre as melhores metodologias de desenvolvimento, robustez, e clean code. Começarei a postar alguns projetos, então vocês vão ver bastante coisa sendo compartilhada por aqui, fique a vontade! 🤖
+ # 👋🏻 Olá, eu sou o Matheus !! 
+
+Meu nome é Matheus Italo, sou estudante de Sistemas de Informação pelo IFNMG - Instituto Federal do Norte de Minas Gerais, em ultimo ano de formação. Atualmente trabalho como programador freelancer full-stack com 1 ano de experiência e muitos projetos privados.
+  ## 💻 Especialidades
+<p>Atualmente tenho inumeros cursos de JavaScript, React.js, Vue.js, Node.js, nest.js TypeScript, React Native e outros, tanto na parte de front-end, quanto no de back-end sempre focado em finalizar o projeto de ponta-a-ponta com as melhores metodologias de desenvolvimento atuais. Estou bem empenhado em aprimorar cada vez mais minhas skills e adquirir novas, melhorando a cada dia e aumentando meu desempenho, aprimorando design, correções, robustez, clean code e muitos outras metodologias! 🤖</p>
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
       
-## Tecnologias:
+### 🛠 Tecnologias:
+  <div>
+  <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300ff.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
-
-## Contatos:
+### 🌍 Contatos:
 <div>
 <a href="https://www.instagram.com/math.italo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/destruindosonhos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:haiganbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusitalo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-italo-7ab09b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+> Be the hero of your own story.
 
 ## Estatísticas:
 <div align="center">
