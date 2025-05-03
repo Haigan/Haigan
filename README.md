@@ -1,6 +1,6 @@
  # 👋🏻 Olá, eu sou o Matheus !! 
 
-Meu nome é Matheus Italo, sou estudante de Sistemas de Informação pelo IFNMG - Instituto Federal do Norte de Minas Gerais, em ultimo ano de formação. Atualmente trabalho como programador freelancer full-stack com 2 anos de experiência e muitos projetos privados.
+Meu nome é Matheus Italo, sou formado e Bacharel em Sistemas de Informação pelo IFNMG - Instituto Federal do Norte de Minas Gerais. Atualmente trabalho como programador freelancer full-stack com 2 anos de experiência e muitos projetos privados.
   ## 💻 Especialidades
 <p>Atualmente tenho inumeros cursos de JavaScript, React.js, Vue.js, Node.js, nest.js TypeScript, React Native e outros, tanto na parte de front-end, quanto no de back-end sempre focado em finalizar o projeto de ponta-a-ponta com as melhores metodologias de desenvolvimento atuais. Estou bem empenhado em aprimorar cada vez mais minhas skills e adquirir novas, melhorando a cada dia e aumentando meu desempenho, aprimorando design, correções, robustez, clean code e muitos outras metodologias! 🤖</p>
 
