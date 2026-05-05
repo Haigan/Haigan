@@ -1,9 +1,14 @@
- # 👋🏻 Olá, eu sou o Matheus !! 
+# Matheus Italo
+### 💻 Systems Analyst | Full-Stack Developer
 
-Meu nome é Matheus Italo, sou Bacharel em Sistemas de Informação pelo IFNMG - Instituto Federal do Norte de Minas Gerais. Atualmente trabalho como programador freelancer full-stack com 3 anos de experiência e muitos projetos privados.
+Sou Matheus, Bacharel em Sistemas de Informação pelo IFNMG e programador freelancer full-stack com 3 anos de experiência, atuando no desenvolvimento e evolução de sistemas.
   ## 💻 Especialidades
-<p>Atualmente tenho inumeros cursos de JavaScript, React.js, Vue.js, Node.js, nest.js TypeScript, React Native e outros, tanto na parte de front-end, quanto no de back-end sempre focado em finalizar o projeto de ponta-a-ponta com as melhores metodologias de desenvolvimento atuais. Estou bem empenhado em aprimorar cada vez mais minhas skills e adquirir novas, melhorando a cada dia e aumentando meu desempenho, aprimorando design, correções, robustez, clean code e muitos outras metodologias! 🤖</p>
+<p>
+Atuo com análise e operação de sistemas corporativos, focado na coleta e interpretação de dados para melhoria contínua, sustentação e otimização de aplicações. Tenho experiência na identificação de gargalos, análise de desempenho e implementação de soluções que aumentam a eficiência e a qualidade dos softwares.
 
+Paralelamente, invisto constantemente no aprimoramento técnico, com formação em tecnologias do ecossistema atual, como React, Vue, Node.js, NestJS, TypeScript e React Native. Possuo atuação tanto em front-end quanto em back-end, com foco na entrega de soluções completas, de ponta a ponta, aplicando boas práticas de desenvolvimento, como clean code, escalabilidade, performance e robustez.
+
+Estou em constante evolução, buscando expandir minhas habilidades e aumentar meu desempenho, sempre orientado à criação de soluções eficientes, sustentáveis e de alta qualidade. 🤖</p>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
       
