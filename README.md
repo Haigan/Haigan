@@ -34,6 +34,9 @@ Estou em constante evolução, buscando expandir minhas habilidades e aumentar m
 
 ### 🌍 Contatos:
 <div>
+  <a href="mailto:matheusitalo.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/matheus-italo-de-ara%C3%BAjo-7ab09b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
