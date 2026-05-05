@@ -6,7 +6,7 @@ Sou Matheus, Bacharel em Sistemas de Informação pelo IFNMG e programador freel
 <p>
 Atuo com análise e operação de sistemas corporativos, focado na coleta e interpretação de dados para melhoria contínua, sustentação e otimização de aplicações. Tenho experiência na identificação de gargalos, análise de desempenho e implementação de soluções que aumentam a eficiência e a qualidade dos softwares.
 
-Paralelamente, invisto constantemente no aprimoramento técnico, com formação em tecnologias do ecossistema atual, como React, Vue, Node.js, NestJS, TypeScript e React Native. Possuo atuação tanto em front-end quanto em back-end, com foco na entrega de soluções completas, de ponta a ponta, aplicando boas práticas de desenvolvimento, como clean code, escalabilidade, performance e robustez.
+Paralelamente, invisto constantemente no aprimoramento técnico, com formação em tecnologias do ecossistema atual, como React, Vue, Node.js, NestJS, TypeScript e soluções utilizando IA de forma inteligente. Possuo atuação tanto em front-end quanto em back-end, com foco na entrega de soluções completas, de ponta a ponta, aplicando boas práticas de desenvolvimento, como clean code, escalabilidade, performance e robustez.
 
 Estou em constante evolução, buscando expandir minhas habilidades e aumentar meu desempenho, sempre orientado à criação de soluções eficientes, sustentáveis e de alta qualidade. 🤖</p>
 
@@ -37,18 +37,11 @@ Estou em constante evolução, buscando expandir minhas habilidades e aumentar m
 
 ### 🌍 Contatos:
 <div>
-<a href="https://www.instagram.com/math.italo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-italo-7ab09b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 > Be the hero of your own story.
 
-## Estatísticas:
-<div align="center">
-<a href="https://github.com/Haigan">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Haigan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haigan&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
 
 
